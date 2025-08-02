@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sanjay PS
 
-<!--
-**sanjayps789/sanjayps789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **MERN Stack Developer** who loves crafting beautiful, scalable, and blazing-fast web applications. I work with the full web ecosystem—from design systems to deployment, with a focus on clean code, performance, and user experience.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase, Firestore
+- **Tools:** Git, GitHub, Postman, Vercel, Netlify, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Build responsive and dynamic UIs with React/Next.js
+- Design RESTful APIs with Node and Express
+- Integrate databases (MongoDB/Firebase)
+- Animate interfaces using GSAP and Framer Motion
+- Optimize for SEO, performance, and accessibility
+
+### 📬 Connect With Me
+- 🔗 [Portfolio](https://new-portfolio-2kwofxtpp-sanjay-ps-projects.vercel.app/)
+- 📝 [Medium](https://medium.com/@sanjayckz789)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🐦 [Twitter/X](https://x.com/yourhandle)
+
+---
+
+_“Build it like you’d use it.”_

@@ -16,10 +16,9 @@ I'm a passionate **MERN Stack Developer** who loves crafting beautiful, scalable
 - Optimize for SEO, performance, and accessibility
 
 ### 📬 Connect With Me
-- 🔗 [Portfolio](https://new-portfolio-2kwofxtpp-sanjay-ps-projects.vercel.app/)
+- 🔗 [Portfolio](https://codewithsanju.vercel.app/)
 - 📝 [Medium](https://medium.com/@sanjayckz789)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐦 [Twitter/X](https://x.com/yourhandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjay-ps193)
 
 ---
 
